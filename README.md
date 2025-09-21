@@ -24,4 +24,6 @@
 
 ```bash
 git clone https://github.com/Jerry-Chen1999/Guitar-scroll-player
+pip install -r requirements.txt
 cd guitar-scroll-player
+python src/main.py
