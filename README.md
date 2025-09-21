@@ -3,7 +3,7 @@
 > A Python + OpenCV application to scroll through guitar (or any instrument) sheet music on your screen — no more paper flipping!
 
 <p align="center">
-  <img src="assets/demo.png" alt="Guitar Scroll Player in Action" width="800">
+  <img src="assets/Demo.png" alt="Guitar Scroll Player in Action" width="800">
 </p>
 ---
 
